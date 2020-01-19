@@ -38,4 +38,23 @@
 - BMP280 (pressure sensor for altitude measurement)
 - ...
 
-#### 19.01.2020
+### Telemetric data packet format 
+ 
+  - [ID] 
+  - [Uptime]
+  - [N of packets] 
+  - [Voltage] 
+  - [Altitude] 
+  - [Velocity]
+  - [Latitude]
+  - [Longtitude]
+  - [Photo Info]
+  - [Propeller]
+  - [Real time for dispatch] 
+  - [N of photos taken] 
+  - [N of photos sent] (optional)
+
+
+
+
+19.01.2020
