@@ -41,12 +41,13 @@
 - Battery 
 - GPS module
 - XBEE antenna
-- Brushless DC motor 
-- ESC - electronic speed controller 
+- Brushless DC motor *
+- ESC - electronic speed controller *
 - SD card
 - SD card slot
 - Camera 
 - Propeller
 - ...
 
+\* = maybe instead use passive landing 
 #### 21.01.2020
