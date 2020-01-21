@@ -31,30 +31,22 @@
         -   satellite balance
         -   camera handler
 
-### List of electronics
+### List of parts
 - STM32F103C8T6 (microcontroller)
 - XBEE S1 (for radiotransmission)
 - MPU 6050 (gyrosensor)
 - BMP280 (pressure sensor for altitude measurement)
+***
+- Soldering wire
+- Battery 
+- GPS module
+- XBEE antenna
+- Brushless DC motor 
+- ESC - electronic speed controller 
+- SD card
+- SD card slot
+- Camera 
+- Propeller
 - ...
 
-### Telemetric data packet format 
- 
-  - [ID] 
-  - [Uptime]
-  - [N of packets] 
-  - [Voltage] 
-  - [Altitude] 
-  - [Velocity]
-  - [Latitude]
-  - [Longtitude]
-  - [Photo Info]
-  - [Propeller]
-  - [Real time for dispatch] 
-  - [N of photos taken] 
-  - [N of photos sent] (optional)
-
-
-
-
-19.01.2020
+#### 21.01.2020
