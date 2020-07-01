@@ -6,9 +6,9 @@
 	 - Writing driver code for Camera
 	 - Taking photos every 2 seconds (at least 5 photos, 480x480p)
 	 - Storing photos
--   ~~GPS ~~
-    -   ~~Writing driver code for GPS module ~~
-    -   ~~getting longitude and latitude information ~~
+-   ~~GPS~~
+    -   ~~Writing driver code for GPS module~~
+    -   ~~getting longitude and latitude information~~
     
 -   Data transmission
     -   Writing driver code for XBEE S1 (probably)
@@ -18,7 +18,7 @@
 -   Telemetric information
     -   Battery voltage measurement IC **[?]**
     -   ~~Driver for BMP (180 or 280)~~ 
-    -   Configuring Real Time Clock **[maybe use UTC time from GPS?] **
+    -   Configuring Real Time Clock **[maybe use UTC time from GPS?]**
     -   Measuring number of cycles of propeller **[?]**
         
 -   Main Driver Code
